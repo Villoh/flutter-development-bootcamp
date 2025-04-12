@@ -8,10 +8,10 @@ Welcome to The Complete 2021 Flutter Development Bootcamp with Dart! This reposi
 
 ## 🚀 Projects
 
-### 1. I Am Rich
+### 1. I Am Poor
 A simple introductory app displaying an image and text - your first step into Flutter development.
 - **Concepts**: Basic app structure, working with assets, MaterialApp, Scaffold
-- **Directory**: `/i_am_rich`
+- **Directory**: `/i_am_poor`
 
 ### 2. Mi Card
 A personal business card app to showcase your contact information.
@@ -85,7 +85,7 @@ git clone https://github.com/yourusername/flutter-bootcamp-projects.git
 
 2. Navigate to a specific project:
 ```bash
-cd flutter-bootcamp-projects/i_am_rich
+cd flutter-bootcamp-projects/i_am_poor
 ```
 
 3. Get dependencies:

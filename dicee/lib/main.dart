@@ -1,3 +1,5 @@
+import 'dart:math';
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -5,10 +7,7 @@ void main() {
     MaterialApp(
       home: Scaffold(
         backgroundColor: Colors.red,
-        appBar: AppBar(
-          title: Text('Dicee'),
-          backgroundColor: Colors.red,
-        ),
+        appBar: AppBar(title: Text('Dicee'), backgroundColor: Colors.red),
         body: DicePage(),
       ),
     ),
@@ -20,6 +19,27 @@ class DicePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Center(
+      child: Row(
+        children: <Widget>[
+          Expanded(
+            child: TextButton(
+              style: TextButton.styleFrom(padding: const EdgeInsets.all(16.0)),
+              onPressed: () {
+                Image.asset('assets/images/dice${Random().nextInt(6) + 1}.png');
+              },
+              child: Image.asset('assets/images/dice1.png'),
+            ),
+          ),
+          Expanded(
+            child: TextButton(
+              style: TextButton.styleFrom(padding: const EdgeInsets.all(16.0)),
+              onPressed: () {},
+              child: Image.asset('assets/images/dice1.png'),
+            ),
+          ),
+        ],
+      ),
+    );
   }
 }

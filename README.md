@@ -21,7 +21,7 @@ A personal business card app to showcase your contact information.
 ### 3. Dicee
 An interactive dice app that lets users roll virtual dice.
 - **Concepts**: Stateful widgets, User interaction, Random number generation, Functions
-- **Directory**: `/dicee_flutter`
+- **Directory**: `/dicee`
 
 ### 4. Magic 8 Ball
 A fortune-telling app that gives answers to yes/no questions.
@@ -31,12 +31,12 @@ A fortune-telling app that gives answers to yes/no questions.
 ### 5. Xylophone
 A musical app that plays different notes when buttons are pressed.
 - **Concepts**: Handling audio files, Working with packages, Functions and loops
-- **Directory**: `/xylophone_flutter`
+- **Directory**: `/xylophone`
 
 ### 6. Quizzler
 A true/false quiz app that tracks your score.
 - **Concepts**: OOP principles, Lists, Conditional statements, Alert dialogs
-- **Directory**: `/quizzler_flutter`
+- **Directory**: `/quizzler`
 
 ### 7. Destini
 A "choose your own adventure" game with different story paths.
@@ -46,27 +46,27 @@ A "choose your own adventure" game with different story paths.
 ### 8. BMI Calculator
 A sleek BMI calculator app with custom UI.
 - **Concepts**: Advanced UI design, Navigation, Custom widgets, Themes
-- **Directory**: `/bmi_calculator_flutter`
+- **Directory**: `/bmi_calculator`
 
 ### 9. Clima
 A weather app that fetches real-time data.
 - **Concepts**: API integration, Asynchronous operations, Location services, JSON parsing
-- **Directory**: `/clima_flutter`
+- **Directory**: `/clima`
 
 ### 10. Bitcoin Ticker
 A cryptocurrency price checking app.
 - **Concepts**: Dropdown widgets, API integration, Currency conversion
-- **Directory**: `/bitcoin_ticker_flutter`
+- **Directory**: `/bitcoin_ticker`
 
 ### 11. Flash Chat
 A modern messaging app with Firebase integration.
 - **Concepts**: Firebase authentication, Cloud Firestore, Animations, Stream builders
-- **Directory**: `/flash_chat_flutter`
+- **Directory**: `/flash_chat`
 
 ### 12. Todoey
 A todo list app with state management.
 - **Concepts**: Provider pattern, Advanced state management, ListViews
-- **Directory**: `/todoey_flutter`
+- **Directory**: `/todoey`
 
 ## 🛠️ Setup Instructions
 

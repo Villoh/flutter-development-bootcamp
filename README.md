@@ -16,7 +16,7 @@ A simple introductory app displaying an image and text - your first step into Fl
 ### 2. Mi Card
 A personal business card app to showcase your contact information.
 - **Concepts**: Layout, Column/Row widgets, Container styling, Custom fonts, Card widget
-- **Directory**: `/mi_card_flutter`
+- **Directory**: `/mi_card`
 
 ### 3. Dicee
 An interactive dice app that lets users roll virtual dice.
